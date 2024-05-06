@@ -1,0 +1,20 @@
+.heading{
+    font-size: 75px;
+    color: rgb(230, 230, 112);
+    font-family: algerian;
+    background-color: blue;
+}
+body{
+    background-color: powderblue;
+}
+h4{
+    color: rgb(230, 230, 112);
+    background-color: blue;
+}
+button{
+    background-color: black;
+    color: yellow;
+}
+h3{
+    background-color: yellow;
+}
